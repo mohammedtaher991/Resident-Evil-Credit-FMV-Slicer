@@ -23,3 +23,5 @@ Tools that I used:
 
 - [Tesseract at UB Mannheim](https://github.com/UB-Mannheim/tesseract/wiki)
 - [pillow](https://pypi.org/project/pillow/#files)
+
+Do note in the first release I used AI chat gemini to get setup more easier, in the next update, or I don't know when I'll do some manuall codding once I reach the knowladge of programming python.
