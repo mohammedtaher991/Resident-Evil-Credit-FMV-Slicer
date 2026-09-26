@@ -13,6 +13,8 @@ This tool includes:
 
 You can later use it to manaully convert it to video.
 
+In order to download this tool go to [release](https://github.com/mohammedtaher991/Resident-Evil-Credit-FMV-Slicer/releases) page.
+
 Don't expect at this moment:
 
 - convert to STF, because currently I haven't found the way to mod the .stf files.
